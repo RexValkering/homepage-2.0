@@ -1,5 +1,7 @@
 # homepage-2.0
 
+Simple portfolio website written in Vue 3.
+
 ## Project setup
 ```
 yarn install
